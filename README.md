@@ -25,7 +25,7 @@ before moving forward to **predictive models**.
 
 ## 🛠️ Technologies and Tools
 
-The project was developed in **Python**, using:
+The project was developed in **Python v3.13.9**, using:
 
 - **Pandas**  
   - Data manipulation, cleaning, and transformation
@@ -33,7 +33,7 @@ The project was developed in **Python**, using:
 - **JSON Normalize**  
   - Handling the nested structure of the original data
 
-- **Google Colab**  
+- **Microsoft VS Code (kernell engine)**  
   - Development environment used to run the notebook
 
 ---
